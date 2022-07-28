@@ -1,5 +1,7 @@
 # CSS GRID
 
+Video aula do youtube ensinando a usar o DISPLAY GRID
+
 ## GRID
 
 - Bimensional
@@ -45,5 +47,8 @@ Vamos separar em 2 grupos:
   - grid-row-start
   - grid-row-end
 - grid-area
+
+
+* Made with by BrN Marques [my linkedIn](https://www.linkedin.com/in/brunomarques85/)
 
 
